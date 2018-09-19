@@ -2,6 +2,5 @@
 document.querySelector("main").remove()
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
-var newHeader = document.createElement('H1#Victory')
-document.body.appendChild(Ben Toner is Cool)
+var newHeader = document.createElement('h1#victory')
+document.body.appendChild(newHeader)
